@@ -16,11 +16,13 @@ As a GRC officer at a tech company, I spearheaded the selection of a GRC tool to
 
 <h2>Recommended GRC Platforms:</h2>
 
-<img src="https://img.shields.io/badge/-OneTrust-FF0000?&style=for-the-badge&logo=OneTrust&logoColor=white" /> <img src="https://img.shields.io/badge/-TrustArc-FFDAB9?&style=for-the-badge&logo=TrustArc&logoColor=white" /> <img src="https://img.shields.io/badge/-PrivacyPerfect-8A2BE2?&style=for-the-badge&logo=PrivacyPerfect&logoColor=white" />
-<img src="https://img.shields.io/badge/-BigID-FF4500?&style=for-the-badge&logo=BigID&logoColor=white" />
-<img src="https://img.shields.io/badge/-Collibra-228B22?&style=for-the-badge&logo=Collibra&logoColor=white" />
-<img src="https://img.shields.io/badge/-Informatica-FFD700?&style=for-the-badge&logo=Informatica&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cookiebot-1E90FF?&style=for-the-badge&logo=Cookiebot&logoColor=white" />
-<img src="https://img.shields.io/badge/-DataGrail-DC143C?&style=for-the-badge&logo=DataGrail&logoColor=white" />
-<img src="https://img.shields.io/badge/-Privacera-008080?&style=for-the-badge&logo=Privacera&logoColor=white" />
+<a href="https://www.onetrust.com" target="_blank"><img src="https://img.shields.io/badge/-OneTrust-FF0000?&style=for-the-badge&logo=OneTrust&logoColor=white" /></a>
+<a href="https://www.trustarc.com" target="_blank"><img src="https://img.shields.io/badge/-TrustArc-FFDAB9?&style=for-the-badge&logo=TrustArc&logoColor=white" /></a>
+<a href="https://www.privacyperfect.com" target="_blank"><img src="https://img.shields.io/badge/-PrivacyPerfect-8A2BE2?&style=for-the-badge&logo=PrivacyPerfect&logoColor=white" /></a>
+<a href="https://www.bigid.com" target="_blank"><img src="https://img.shields.io/badge/-BigID-FF4500?&style=for-the-badge&logo=BigID&logoColor=white" /></a>
+<a href="https://www.collibra.com" target="_blank"><img src="https://img.shields.io/badge/-Collibra-228B22?&style=for-the-badge&logo=Collibra&logoColor=white" /></a>
+<a href="https://www.informatica.com" target="_blank"><img src="https://img.shields.io/badge/-Informatica-FFD700?&style=for-the-badge&logo=Informatica&logoColor=white" /></a>
+<a href="https://www.cookiebot.com" target="_blank"><img src="https://img.shields.io/badge/-Cookiebot-1E90FF?&style=for-the-badge&logo=Cookiebot&logoColor=white" /></a>
+<a href="https://www.datagrail.io" target="_blank"><img src="https://img.shields.io/badge/-DataGrail-DC143C?&style=for-the-badge&logo=DataGrail&logoColor=white" /></a>
+<a href="https://www.privacera.com" target="_blank"><img src="https://img.shields.io/badge/-Privacera-008080?&style=for-the-badge&logo=Privacera&logoColor=white" /></a>
 
